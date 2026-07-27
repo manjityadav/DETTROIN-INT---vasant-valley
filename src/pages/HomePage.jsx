@@ -3,6 +3,7 @@ import Hero from '../components/Hero'
 import Stats from '../components/Stats'
 import HeroCard from "../components/HeroCard"
 import Vision from '../components/Vision'
+import Excellence from '../components/Excellence'
 
 function HomePage() {
   return (
@@ -11,6 +12,7 @@ function HomePage() {
       <Stats/>
       <HeroCard/>
       <Vision/>
+      <Excellence/>
     </div>
   )
 }
