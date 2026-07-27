@@ -34,7 +34,7 @@ function Header() {
   return (
     <header  className="fixed top-5 left-0 w-full z-50 px-8">
       <div className="max-w-9xl mx-auto bg-white/95 backdrop-blur-lg rounded-3xl shadow-2xl border border-gray-100">
-    <div className='flex justify-between items-center gap-5 px-10 py-2'>
+    <div className='flex justify-between items-center gap-5 px-10 py-4'>
       <div className='flex gap-4'>
         <img className='h-12' src="/logo.png" alt="" />
         <h3 className='font-bold'>VASANT VALLEY <br /> <span className='text-[#981315]'>SCHOOL</span> </h3>
