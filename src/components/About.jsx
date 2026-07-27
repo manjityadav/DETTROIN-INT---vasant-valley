@@ -5,15 +5,12 @@ export default function AboutSection() {
     <section className="bg-[#faf8f5] py-24">
       <div className="max-w-5xl mx-auto px-6 text-center">
 
-        {/* Small Heading */}
         <p className="uppercase tracking-[4px] text-[#981315] font-semibold">
           About Us
         </p>
 
-        {/* Line */}
         <div className="w-24 h-1 bg-[#981315] mx-auto rounded-full mt-6"></div>
 
-        {/* Content */}
         <p className="mt-10 text-lg text-gray-600 leading-9">
           Vasant Valley School was established in 1990 by
           Mr. Aroon Purie and Mrs. Rekha Purie as an initiative

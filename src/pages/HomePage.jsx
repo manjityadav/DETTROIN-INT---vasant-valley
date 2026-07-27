@@ -1,9 +1,11 @@
 import React from 'react'
-import Hero from '../components/Hero'
-import Stats from '../components/Stats'
-import HeroCard from "../components/HeroCard"
-import Vision from '../components/Vision'
-import Excellence from '../components/Excellence'
+import Hero from '../components/Hero.jsx'
+import Stats from '../components/Stats.jsx'
+import HeroCard from "../components/HeroCard.jsx"
+import Vision from '../components/Vision.jsx'
+import About from '../components/About.jsx'
+import EducationSection from '../components/Education.jsx'
+import Infrastructure from '../components/Infrastructure.jsx'
 
 function HomePage() {
   return (
@@ -12,7 +14,9 @@ function HomePage() {
       <Stats/>
       <HeroCard/>
       <Vision/>
-      <Excellence/>
+      <About/>
+      <EducationSection/>
+      <Infrastructure/>
     </div>
   )
 }
