@@ -6,6 +6,8 @@ import Vision from '../components/Vision.jsx'
 import About from '../components/About.jsx'
 import EducationSection from '../components/Education.jsx'
 import Infrastructure from '../components/Infrastructure.jsx'
+import LearningExperience from '../components/Learning.jsx'
+import Events from '../components/Events.jsx'
 
 function HomePage() {
   return (
@@ -17,6 +19,8 @@ function HomePage() {
       <About/>
       <EducationSection/>
       <Infrastructure/>
+      <LearningExperience/>
+      <Events/>
     </div>
   )
 }
