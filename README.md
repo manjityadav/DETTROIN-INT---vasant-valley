@@ -1,16 +1,89 @@
-# React + Vite
+# 🎓 Vasant Valley School Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive frontend recreation of the **Vasant Valley School** website built using React and Tailwind CSS. The project focuses on creating a clean, attractive, and user-friendly interface while improving the overall design and responsiveness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 👤 Full Name
 
-## React Compiler
+Manjeet Kumar Yadav
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🆔 Intern ID
 
-## Expanding the Oxlint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+## 📧 Email Address
+
+manjeetyadav2905@gmail.com
+
+## 💻 GitHub Username
+
+manjityadav
+
+## 🌐 Selected Website
+
+Vasant Valley School  
+https://www.vasantvalley.org
+
+## 🚀 Live Demo
+
+[https://YOUR-VERCEL-LINK.vercel.app](https://vasant-valley.vercel.app/)
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Lucide React Icons
+- Git & GitHub
+- Vercel
+
+---
+
+## ✨ Key Improvements Made
+
+- Designed a modern and responsive user interface.
+- Created a custom hero section with background image and overlay.
+- Built a reusable navigation bar with hover effects.
+- Developed an animated achievements/statistics section.
+- Created interactive Vision and Learning Experience sections.
+- Added a dynamic Recent Events slider.
+- Built an auto-sliding Instagram gallery.
+- Designed a modern footer with social media links.
+- Improved spacing, typography, and overall UI consistency.
+- Optimized images and component structure for better performance.
+
+---
+
+## 📂 Features
+
+- Responsive Design
+- Modern UI
+- Auto Sliding Carousel
+- Interactive Components
+- Reusable React Components
+- Smooth Hover Animations
+- Clean Code Structure
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/manjityadav/DETTROIN-INT---vasant-valley.git
+
+cd YOUR_REPOSITORY
+
+npm install
+
+npm run dev
+```
+
+## 📄 License
+
+This project is created for internship and educational purposes only.
