@@ -9,6 +9,7 @@ import Infrastructure from '../components/Infrastructure.jsx'
 import LearningExperience from '../components/Learning.jsx'
 import Events from '../components/Events.jsx'
 import InstagramSection from '../components/Instagram.jsx'
+import Footer from '../components/Footer.jsx'
 
 function HomePage() {
   return (
@@ -23,6 +24,7 @@ function HomePage() {
       <LearningExperience/>
       <Events/>
       <InstagramSection/>
+      <Footer/>
     </div>
   )
 }
